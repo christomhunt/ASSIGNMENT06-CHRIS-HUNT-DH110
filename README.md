@@ -18,17 +18,31 @@ Interface Design allows Designer/Researcher to put up higher fidelity prototypes
 
 ### Chosen Wireframe
 
+![Music Theory Mobile Light](Music%20Theory%20Mobile%20Light.png)
+
 ### Screen Design
 
 ##### Layout Design
 
+![Music Theory Mobile layout](Layout.png)
+
 ##### Typographic Variations
+
+![Music Theory Mobile text](Text.png)
 
 ##### Shape Variations
 
+![Music Theory Mobile shapes](Shapes.png)
+
 ##### Color Scheme (Light and Dark mode)
 
+![Music Theory Mobile Ligth and Dark](Light%20%20Dark.png)
+
 ### Color Contrast Accessibility (Spark plugin screenshot)
+
+![Music Theory Mobile color contrast light](color%20contrast%20light.PNG)
+
+![Music Theory Mobile color contrast dark](color%20contrast%20dark.PNG)
 
 ### Summary of Graphic Design
 
