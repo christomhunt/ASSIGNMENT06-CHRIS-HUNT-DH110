@@ -9,7 +9,7 @@ The purpose of this project is to redesign musictheory.net to provide a better u
 Interface Design allows Designer/Researcher to put up higher fidelity prototypes with the feedback they gathered from prior tests. That way you can make sure you're on the right track. Testing different Interface Design helps identify what the original website was doing well along with what the Designer/Researcher can change.
 
 ### URLs
-[Wireflow](https://www.figma.com/file/QOXXEFvprdodF0daWYRbqX/Interface-Design-System?node-id=19%3A704)
+[Wireflow](https://whimsical.com/interactive-design-wireflow-2i2DXFL5VSsxAwU2DohhpD)
 
 [5 second usability test](https://youtu.be/gVTsw0LuuA4)
 
