@@ -104,8 +104,10 @@ I wanted to stay with neutral colors in a sense because I personally found it ha
 >
 >(alternate spacing used)
 >
->3 colum 0 margin 0 gutter
+>3 column 0 margin 0 gutter
 >
 >2 rows 0 margin 0 gutter
 
 How I made the decision?
+
+The 20px grid was a good size when I was testing out the different grid sizes. It helped me place items in a uniform manner and keep the same formatting throughout the design. It also provided me with a general guideline for how big I can make an item I wanted to place because I knew if I need to fit 8 items here and I only have 7 grids then I would have to make them smaller than that to fit equally. The column and rows proved to be very useful too making sure I have enough space between the edge of my design and the edge of the phone screen in this case because having stuff right up against the edge isn't that easy for users to access especially if it's a smaller item. It also helped me center my design and space things out equally without having to draw rectangles and format everything inside of them. Another way I used rows and columns is to make my 5th and 6th design for the shape design making 3 columns and 2 rows so I can equally space out my 6 lessons that were prior vertically organized into a grid/chart without drawing out a chart.
