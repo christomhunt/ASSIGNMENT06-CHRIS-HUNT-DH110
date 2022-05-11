@@ -62,6 +62,10 @@ Interface Design allows Designer/Researcher to put up higher fidelity prototypes
 
 ### Summary of Graphic Design
 
+#### Adobe Color Theme
+
+![Adobe Color Theme](ac%20music%20theory%20logo.PNG)
+
 ##### Typeface family and size:
 
 >Header: Inter Bold 9
@@ -76,6 +80,8 @@ Interface Design allows Designer/Researcher to put up higher fidelity prototypes
 
 How I made the decision?
 
+I chose Inter because after viewing many different fonts on fonts.google and seeing someone talk about fonts on LinkdIn. I needed something that was simple and easy for everyone to read Inter really captures my goals in that sense because I want anyone to be able to open the website and start learning music theory. To make it even more inclusive I could possibly add a different font size option. E.g. small, medium, large. and have the fonts the size that it would appear on the screen so it would make more sense to people. Also having a landscape mode for mobile where the UI fills out the space better but would also mean I need to have a landscape version built out.
+
 ##### Color scheme:
 
 >Background color: F0F0F0
@@ -85,6 +91,8 @@ How I made the decision?
 >Text color: FFFFFF/000000
 
 How I made the decision?
+
+I wanted to stay with neutral colors in a sense
 
 ##### Layout grid and spacing:
 
