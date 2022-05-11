@@ -80,7 +80,7 @@ Interface Design allows Designer/Researcher to put up higher fidelity prototypes
 
 How I made the decision?
 
-I chose Inter because after viewing many different fonts on fonts.google and seeing someone talk about fonts on LinkdIn. I needed something that was simple and easy for everyone to read Inter really captures my goals in that sense because I want anyone to be able to open the website and start learning music theory. To make it even more inclusive I could possibly add a different font size option. E.g. small, medium, large. and have the fonts the size that it would appear on the screen so it would make more sense to people. Also having a landscape mode for mobile where the UI fills out the space better but would also mean I need to have a landscape version built out.
+I chose Inter because after viewing many different fonts on fonts.google and seeing someone talk about fonts on LinkedIn. I needed something that was simple and easy for everyone to read. Inter really captures my goals in that sense because I want anyone to be able to open the website and start learning music theory. To make it even more inclusive I could possibly add a different font size option. E.g. small, medium, large. and have the fonts the size that it would appear on the screen so it would make more sense to people. Also having a landscape mode for mobile where the UI fills out the space better but would also mean I need to have a landscape version built out.
 
 ##### Color scheme:
 
@@ -92,7 +92,7 @@ I chose Inter because after viewing many different fonts on fonts.google and see
 
 How I made the decision?
 
-I wanted to stay with neutral colors in a sense
+I wanted to stay with neutral colors in a sense because I personally found it hard to incorporate the Adobe Color Theme into the website while keeping a clean and easy on the eye look to it. There are multiple logos for the website ranging from a black and white to the pinkish one I chose to use so in a sense I did stay with the Adobe Color Theme if I used the black and white logo but I felt like the pinkish tone was a nice refreshing color on the black and would pop more. Black on white is a very boring color scheme but it has stood the test of time and is used universally because we know it works. I don't think this music theory site needs any significant color aside from the logo, some highlighted stuff in lessons, and the flags letting you know what language you are learning in and I found that to be the case after testing a multitude of color combinations.
 
 ##### Layout grid and spacing:
 
