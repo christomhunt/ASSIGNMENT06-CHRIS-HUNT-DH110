@@ -9,6 +9,7 @@ The purpose of this project is to redesign musictheory.net to provide a better u
 Interface Design allows Designer/Researcher to put up higher fidelity prototypes with the feedback they gathered from prior tests. That way you can make sure you're on the right track. Testing different Interface Design helps identify what the original website was doing well along with what the Designer/Researcher can change.
 
 ### URLs
+[Wireflow](https://www.figma.com/file/QOXXEFvprdodF0daWYRbqX/Interface-Design-System?node-id=19%3A704)
 
 [5 second usability test](https://youtu.be/gVTsw0LuuA4)
 
@@ -21,7 +22,13 @@ Interface Design allows Designer/Researcher to put up higher fidelity prototypes
 >Summary of findings from more in depth Interface Design test:
 >
 >   "The one on the left is the easiest one to read, the other two the fonts, the middle one the fonts are too close to each other it's hard to make out the letters. The last one's fonts looked like they're squeezed; they're flattened out like somebody put them in a vice and flattened them they look like they're pixley. First one is the most easiest to read out of all the three."
->   Inter (the text being used in the most left image) is the easiest to read. We also learn that the bottom right design in the shape layout was the easiest to read and understand.
+>   Inter (the text being used in the most left image) is the easiest to read. 
+>   
+>   "This one right here is the easiest one to read and understand(points at the screen at the bottom right one on the shapes.png file)"
+>   We also learn that the bottom right design in the shape layout was the easiest to read and understand. White boarder makes it easier to read because its consistent.
+>   
+>   "The red kind of fades into the black."
+>   For the dark mode of the website I should look into different colors to use for the image of the lesson instead of red because it seems to fade into the black making it harder for user to see it. The user currently would rather prefer to use the light mode and dim their screen at night.
 
 [Test Screens Figma](https://www.figma.com/file/QOXXEFvprdodF0daWYRbqX/Interface-Design-System?node-id=0%3A1)
 
@@ -58,9 +65,13 @@ Interface Design allows Designer/Researcher to put up higher fidelity prototypes
 ##### Typeface family and size:
 
 >Header: Inter Bold 9
+>
 >Lesson group: Inter Regular 9
+>
 >Lesson title: Inter Semi Bold 10
+>
 >Estimated time: Inter Regular 10
+>
 >Lesson description: Inter Regular 6
 
 How I made the decision?
@@ -68,18 +79,25 @@ How I made the decision?
 ##### Color scheme:
 
 >Background color: F0F0F0
+>
 >Header color: 353739
+>
 >Text color: FFFFFF/000000
 
 How I made the decision?
 
 ##### Layout grid and spacing:
 
-20px grid
-1 column 16 margin 16 gutter
-8 rows 24 margin 16 gutter
-alt
-3 colum 0 margin 0 gutter
-2 rows 0 margin 0 gutter
+>20px grid
+>
+>1 column 16 margin 16 gutter
+>
+>8 rows 24 margin 16 gutter
+>
+>(alternate spacing used)
+>
+>3 colum 0 margin 0 gutter
+>
+>2 rows 0 margin 0 gutter
 
 How I made the decision?
