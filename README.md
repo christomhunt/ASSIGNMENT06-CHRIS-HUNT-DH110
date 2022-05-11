@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The purpose of this project is to redesign musictheory.net to provide a better user experience to anyone who will use the app. To achieve this I will talk to users who fit the demographics as well as others who are interested in such an application that they can provide feedback that will help push along the design to create a better experience.
+The purpose of this project is to redesign musictheory.net to provide a better user experience to anyone who will use the website. To achieve this I will talk to users who fit the demographics as well as others who are interested in such an application that they can provide feedback that will help push along the design to create a better experience.
 
 Interface Design allows Designer/Researcher to put up higher fidelity prototypes with the feedback they gathered from prior test. That way you can make sure you're on the right track. Testing different Interface Design helps identify what the original website was doing well along with what the Designer/Researcher can change.
 
